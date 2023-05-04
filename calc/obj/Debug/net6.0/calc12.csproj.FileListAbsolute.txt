@@ -1,0 +1,15 @@
+D:\projects\lab2\calc\calc\bin\Debug\net6.0\calc12.exe
+D:\projects\lab2\calc\calc\bin\Debug\net6.0\calc12.deps.json
+D:\projects\lab2\calc\calc\bin\Debug\net6.0\calc12.runtimeconfig.json
+D:\projects\lab2\calc\calc\bin\Debug\net6.0\calc12.dll
+D:\projects\lab2\calc\calc\bin\Debug\net6.0\calc12.pdb
+D:\projects\lab2\calc\calc\obj\Debug\net6.0\calc12.csproj.AssemblyReference.cache
+D:\projects\lab2\calc\calc\obj\Debug\net6.0\calc12.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\lab2\calc\calc\obj\Debug\net6.0\calc12.AssemblyInfoInputs.cache
+D:\projects\lab2\calc\calc\obj\Debug\net6.0\calc12.AssemblyInfo.cs
+D:\projects\lab2\calc\calc\obj\Debug\net6.0\calc12.csproj.CoreCompileInputs.cache
+D:\projects\lab2\calc\calc\obj\Debug\net6.0\calc12.dll
+D:\projects\lab2\calc\calc\obj\Debug\net6.0\refint\calc12.dll
+D:\projects\lab2\calc\calc\obj\Debug\net6.0\calc12.pdb
+D:\projects\lab2\calc\calc\obj\Debug\net6.0\calc12.genruntimeconfig.cache
+D:\projects\lab2\calc\calc\obj\Debug\net6.0\ref\calc12.dll
